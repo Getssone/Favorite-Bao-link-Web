@@ -1,0 +1,433 @@
+{
+  "categories": [
+    {
+      "id": "tertiaire ",
+      "name": "Tertiaire",
+      "description": "Sites de Conseil et technologiques",
+      "active": true
+    },
+    {
+      "id": "logistique-industriel",
+      "name": "Industrielle & Logistique ",
+      "description": "Sites de gestion logistique, transport et industriel",
+      "active": true
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "description": "Sites de restauration",
+      "active": true
+    },
+    {
+      "id": "artistique",
+      "name": "Artistique",
+      "description": "Sites d'artistes et créatifs",
+      "active": true
+    },
+    {
+      "id": "blog-podcast",
+      "name": "Blog & Podcast",
+      "description": "Blogs et sites de contenu",
+      "active": true
+    },
+    {
+      "id": "sante-et-bien-etre",
+      "name": "Santé et Bien-être",
+      "description": "Sites de santé et de bien-être"
+    }
+  ],
+  "futureCategories": [
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "description": "Portfolios et sites personnels"
+    },
+    {
+      "id": "immobilier",
+      "name": "Immobilier",
+      "description": "Sites immobiliers"
+    },
+    {
+      "id": "education",
+      "name": "Éducation",
+      "description": "Sites éducatifs"
+    },
+    {
+      "id": "association",
+      "name": "Association",
+      "description": "Sites associatifs"
+    },
+    {
+      "id": "startup",
+      "name": "Startup",
+      "description": "Sites de startups tech"
+    }
+  ],
+  "models": [
+    {
+      "id": "astroflow",
+      "title": "AstroFlow",
+      "description": "Sites de gestion logistique et de transport, Un modèle moderne et professionnel destiné aux entreprises du secteur de la logistique, de la fabrication et de la chaîne d'approvisionnement. Développé avec Astro, React, Tailwind CSS et TypeScript.",
+      "image": "/images/models/astroflow.png",
+      "demoUrl": "https://astroflow.wingflows.com/",
+      "type": "vitrine",
+      "category": "logistique-industriel",
+      "tags": [
+        "responsive",
+        "catalogue",
+        "information",
+        "transport",
+        "logistique"
+      ]
+    },
+    {
+      "id": "blackspike",
+      "title": "BlackSpike",
+      "description": "Landing page pour promouvoir une offre haut de gamme avec une expérience utilisateur immersive et élégante.",
+      "image": "/images/models/black-spike.png",
+      "demoUrl": "https://astro-theme.blackspike.com/",
+      "figmaUrl": "https://www.figma.com/design/wZHty4Xu9dc8oaqmbDiTPL/blackspike-astro-landing-page?node-id=1029-1248",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["mode", "luxe", "responsive", "catalogue", "paiement"]
+    },
+    {
+      "id": "folex",
+      "title": "Folex",
+      "description": "Un thème léger, multilingue et conforme au RGPD, conçu pour les agences numériques, les entreprises informatiques, les fournisseurs de solutions informatiques et les cabinets de conseil. Il offre un design entièrement adaptatif, une optimisation pour le référencement naturel (SEO) et une configuration conviviale pour les développeurs.",
+      "image": "/images/models/folex.png",
+      "demoUrl": "https://folex-lite.netlify.app/fr/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["technologie", "comparateur", "fiches produits", "moderne"]
+    },
+    {
+      "id": "bookworm",
+      "title": "Bookworm",
+      "description": "Bookworm est un thème au design riche en fonctionnalités, minimaliste, hautement personnalisable et facile à utiliser.",
+      "image": "/images/models/bookworm.png",
+      "demoUrl": "https://bookworm-light-astro.vercel.app/?aff=ab",
+      "type": "vitrine",
+      "category": "blog-podcast",
+      "tags": ["information", "actualités", "expertise", "conseils", "astuce"]
+    },
+    {
+      "id": "bistro",
+      "title": "Bistro",
+      "description": "Bistro est un modèle de page d'accueil pour restaurant, basé sur Shadcn UI, qui permet de présenter les menus, les chefs, les avis et les offres grâce à un design épuré et adaptatif.",
+      "image": "/images/models/bistro.png",
+      "demoUrl": "https://shadcnstudio.com/preview/templates/shadcn-astro-bistro-landing-page",
+      "type": "vitrine",
+      "category": "restaurant",
+      "tags": ["restauration", "menus", "chefs", "reservations", "offres"]
+    },
+    {
+      "id": "unit-name",
+      "title": "Unit Name",
+      "description": "Un modèle de page d'accueil professionnel et performant pour les organisations militaires, les entreprises de sécurité ou les portefeuilles tactiques, mettant en avant les services, les équipes et les études de cas avec un design moderne et épuré.",
+      "image": "/images/models/unit-name.png",
+      "demoUrl": "https://tempalate-militarywebsite.vercel.app/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["professionnel", "militaire", "sécurité", "équipe", "tactique"]
+    },
+    {
+      "id": "viio",
+      "title": "VIIO",
+      "description": "VIIO est un thème expérimental de page d'accueil intégrant des éléments interactifs 3D. Conçu pour les artistes, il offre une expérience immersive, tout en restant professionnel et performant.",
+      "image": "/images/models/viio.png",
+      "demoUrl": "https://viio.pages.dev/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["professionnel", "3d", "immersif", "créatif", "abstrait"]
+    },
+    {
+      "id": "purrfectly-zen",
+      "title": "Purrfectly Zen",
+      "description": "Landing page professionnel pour cabinet vétérinaire / soigneur animalier ou encore toiletteur avec présentation des équipes et prises de rendez-vous",
+      "image": "/images/models/purrfectly-zen.png",
+      "demoUrl": "https://themes.zira.my.id/",
+      "type": "vitrine",
+      "category": "santé et bien être",
+      "tags": ["professionnel", "animalier", "soins", "équipe"]
+    },
+    {
+      "id": "fitzone-gym",
+      "title": "FitZone Gym",
+      "description": "Un thème moderne et adaptatif pour sites web de salles de sport. il comprend des pages complètes consacrées aux installations, aux cours, aux tarifs, aux témoignages et aux formulaires de contact. Idéal pour les centres de remise en forme, les salles de sport et les entreprises du secteur du bien-être.",
+      "image": "/images/models/fitzone-gym.png",
+      "demoUrl": "https://gym-fitnesss.vercel.app/",
+      "type": "vitrine",
+      "category": "santé et bien être",
+      "tags": ["sport", "moderne", "rendez-vous", "coaching"]
+    },
+    {
+      "id": "screwfast",
+      "title": "Screw-Fast",
+      "description": "Site e-commerce élégant et polyvalent pour le monde de l'industrie/bâtiment, performant, qui allie une esthétique remarquable.",
+      "image": "/images/models/screw-fast.png",
+      "demoUrl": "https://screwfast.uk/",
+      "type": "commerce",
+      "category": "logistique-industriel",
+      "tags": ["outillages", "moderne", "industrie", "construction"]
+    },
+    {
+      "id": "accessibiliteastro",
+      "title": "Accessibilité Astro",
+      "description": "Thème accessible et moderne pour sites web, conçu pour répondre aux besoins des utilisateurs avec des besoins spécifiques.",
+      "image": "/images/models/accessibilite-astro.png",
+      "demoUrl": "https://accessible-astro-starter.incluud.dev/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": [
+        "accessible",
+        "moderne",
+        "inclusif",
+        "utilisateurs",
+        "besoins-spécifiques"
+      ]
+    },
+    {
+      "id": "astropie",
+      "title": "Astro Pie",
+      "description": "AstroPie est un thème, conçu pour vous offrir un point de départ à la fois esthétique et fonctionnel pour le site web de votre prochain restaurant ou bistrot.",
+      "image": "/images/models/astro-pie.png",
+      "demoUrl": "https://astropie.netlify.app/",
+      "type": "commerce",
+      "category": "restaurant",
+      "tags": ["restaurant", "moderne", "reservation", "menus", "chefs"]
+    },
+    {
+      "id": "grunge",
+      "title": "Grunge",
+      "description": "Grunge est conçu pour les amoureux de la musique, offrant à la fois l'esthétique des années 90 et le modernisme du web.",
+      "image": "/images/models/grunge.png",
+      "demoUrl": "https://grunge.pages.dev/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["musique", "décontracte ", "90's", "style", "créatif"]
+    },
+    {
+      "id": "musee",
+      "title": "Musee",
+      "description": "Musée est un thème, conçu pour les journaux et musée qui souhaite présenter un style unique, qui rappelle le monde tous en ayant une approche moderne.",
+      "image": "/images/models/musee.png",
+      "demoUrl": "https://swissfolio.netlify.app/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["musée", "journaliste ", "papier", "style", "créatif"]
+    },
+    {
+      "id": "starpod",
+      "title": "StarPod",
+      "description": "Thème moderne pour partager ses podcasts et mettre vos valeurs en avant, avec vos idées, projets et expertise.",
+      "image": "/images/models/starpod.png",
+      "demoUrl": "https://starpod.dev/",
+      "type": "vitrine",
+      "category": "blog-podcast",
+      "tags": ["créatif", "design", "information", "expertise"]
+    },
+    {
+      "id": "architects",
+      "title": "Architects",
+      "description": "Thème moderne pour un sites web d'architectes et de designers, mettant en valeur les projets et l'expertise.",
+      "image": "/images/models/architects.png",
+      "demoUrl": "https://3dinterior.mail-nearmelab.workers.dev/about/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["architecte", "designer", "oeuvre", "structure", "cabinet"]
+    },
+    {
+      "id": "astroplate",
+      "title": "Astroplate",
+      "description": "Thème moderne pour gérer un site web de contenu multilingue mettant en valeur les projets et l'expérience.",
+      "image": "/images/models/astroplate.png",
+      "demoUrl": "https://astroplate-multilang.netlify.app/fr/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["multilingue", "moderne", "conseil", "information", "expertise"]
+    },
+    {
+      "id": "liteFolio",
+      "title": "LiteFolio",
+      "description": "Une Landing Page pour règle d'or la simplicité, un modèle épuré et optimisé. Pour mettre en avant les compétences et les projets avec une configuration minimaliste et soignée. Idéal pour les créatifs qui souhaitent se démarquer grâce à un design épuré et adaptatif..",
+      "image": "/images/models/litefolio.png",
+      "demoUrl": "https://litefolio.gonzalochale.com/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["freelance", "minimaliste", "épuré", "information", "projets"]
+    },
+    {
+      "id": "podcast",
+      "title": "Podcast",
+      "description": "Modèle pour partager des contenus audio tous en gardent un site web mettant en valeur vos idées, projets et expertise.",
+      "image": "/images/models/podcast.png",
+      "demoUrl": "https://podcast-starter.thebcms.com/",
+      "type": "vitrine",
+      "category": "blog-podcast",
+      "tags": ["multilingue", "moderne", "information", "expertise", "conseil"]
+    },
+    {
+      "id": "cabinet-financier",
+      "title": "Global Finance Starter",
+      "description": "Site vitrine professionnel pour cabinet financier avec présentation des équipes et prises de rendez-vous",
+      "image": "/images/models/global-financial.png",
+      "demoUrl": "https://astro-storyblok-finance-starter.netlify.app/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["professionnel", "financier", "rendez-vous", "conseil", "équipe"]
+    },
+    {
+      "id": "angie",
+      "title": "Angie",
+      "description": "Site professionnel pour agence de design avec présentation des équipes et prises de rendez-vous",
+      "image": "/images/models/angie.png",
+      "demoUrl": "https://angie.temaly.com/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["artistique", "bd", "création", "design", "agence"]
+    },
+    {
+      "id": "mintaka",
+      "title": "Mintaka",
+      "description": "Site professionnel pour agence numérique est spécialisée dans la création captivants, conçus pour générer des conversions et stimuler les ventes.",
+      "image": "/images/models/mintaka.png",
+      "demoUrl": "https://mintaka.majestico.co/",
+      "type": "vitrine",
+      "category": "blog-podcast",
+      "tags": ["artistique", "bd", "création", "design", "agence"]
+    },
+    {
+      "id": "logo-idol",
+      "title": "Idol",
+      "description": "Site professionnel pour agence de design ou proposition d; outils de solution.",
+      "image": "/images/models/logo-idol.png",
+      "demoUrl": "https://idol.indiebold.com/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["services", "agence", "moderne", "design", "information"]
+    },
+    {
+      "id": "fluide",
+      "title": "Fluide",
+      "description": "Site artistique et innovent pour créateur et designer. Avec pour objectif de présenter leurs projets et leurs idées de manière fluide et captivante.",
+      "image": "/images/models/fluide.png",
+      "demoUrl": "https://fluidehttps://nikola.fluidinterfaces.com/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["design", "créateur", "artiste", "innovation"]
+    },
+    {
+      "id": "giallo",
+      "title": "Giallo",
+      "description": "un thème au couleurs vives, un tableau des tarifs amélioré et une vitrine des marques phares agrémentée d'animations GSAP. Profitez d'un design entièrement adaptatif qui s'adapte parfaitement à tous les appareils, offrant une expérience utilisateur exceptionnelle.",
+      "image": "/images/models/giallo.png",
+      "demoUrl": "https://idol.indiebold.com/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["services", "information", "moderne", "design"]
+    },
+    {
+      "id": "kai",
+      "title": "Kai",
+      "description": "Un thème moderne et adaptatif pour sites web et appel d'offres. il comprend des pages complètes consacrées aux projets. Idéal pour les entreprises de conseil, les agences de design et les sociétés de services qui souhaitent présenter leurs projets et leurs idées de manière fluide et captivante.",
+      "image": "/images/models/kai.png",
+      "demoUrl": "https://kai.bi/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["Appel d'offres", "information", "moderne", "design"]
+    },
+    {
+      "id": "photo-grid",
+      "title": "Photo Grid",
+      "description": "Une galerie photo minimaliste d'une seule page permettant de présenter vos œuvres tel une galerie d'art.",
+      "image": "/images/models/photo-grid.png",
+      "demoUrl": "https://astro-photo-grid.netlify.app/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["photographe", "galerie", "design", "art", "musee"]
+    },
+    {
+      "id": "svgl",
+      "title": "SVGL",
+      "description": "La boite a outils des icones permettant de présenter leurs applications et leurs site web.",
+      "image": "/images/models/svgl.png",
+      "demoUrl": "https://svgl.app/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["outil", "bus-mailing", "design", "art", "musee"]
+    },
+    {
+      "id": "horizon photography",
+      "title": "Horizon Photography",
+      "description": "Ce thème spécialement conçu pour les photographes, comprenant des tarifs, des portfolios, des témoignages et bien plus encore. Il est le moyen idéal pour mettre en valeur vos talents de photographe.",
+      "image": "/images/models/horizon-photo.png",
+      "demoUrl": "https://horizon.cosmicthemes.com/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": [
+        "photographe",
+        "portfolio",
+        "témoignages",
+        "rendez-vous",
+        "design"
+      ]
+    },
+    {
+      "id": "said-yes",
+      "title": "Said Yes",
+      "description": "Site vitrine moderne pour wedding planner ou un photographe avec présentation des services pour le jour j et futures mariés, témoignages.",
+      "image": "/images/models/said-yes.png",
+      "demoUrl": "https://roicort.github.io/saidyes/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["wedding planner", "photographe", "marriage", "design"]
+    },
+    {
+      "id": "legal-staff",
+      "title": "Legal Juri",
+      "description": "Site vitrine professionnel pour cabinet d'avocats avec présentation des équipes et prises de rendez-vous",
+      "image": "/images/models/legal-staff.png",
+      "demoUrl": "https://legal-staff.vercel.app/",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["avocat", "juridique", "rendez-vous", "équipe"]
+    },
+    {
+      "id": "big-city-life",
+      "title": "Big City Life",
+      "description": "Site vitrine moderne pour photographe ou une agence de voyage avec présentation des photos/destinations et prises de rendez-vous",
+      "image": "/images/models/big-city-life.png",
+      "demoUrl": "https://bigcitylife.netlify.app/",
+      "type": "vitrine",
+      "category": "artistique",
+      "tags": ["photographe", "voyage", "rendez-vous", "design"]
+    },
+    {
+      "id": "soair",
+      "title": "SOAIR",
+      "description": "Site informatique, spécialisé dans les audit et la gestion d'infrastructure et de la sécurité. Le site présente les services de SOAIR, ainsi que des études de cas et des ressources pour les clients.",
+      "image": "/images/projets/soair.png",
+      "demoUrl": "https://soair.fr",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": [
+        "audit",
+        "gestion informatique",
+        "sécurité",
+        "infrastructure",
+        "services informatiques"
+      ]
+    },
+    {
+      "id": "gaetan",
+      "title": "Gaëtan Solis",
+      "description": "Portfolio, pour présenter des projets personnel et des réalisations ainsi que faire des tests de performance.",
+      "image": "/images/projets/gaetan-solis.png",
+      "demoUrl": "https://gaetan-solis.fr",
+      "type": "vitrine",
+      "category": "tertiaire ",
+      "tags": ["portfolio", "projet", "moderne", "présentation", "services web"]
+    }
+  ]
+}
