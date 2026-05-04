@@ -106,7 +106,7 @@
       "title": "Bookworm",
       "description": "Bookworm est un thème au design riche en fonctionnalités, minimaliste, hautement personnalisable et facile à utiliser.",
       "image": "/images/models/bookworm.png",
-      "demoUrl": "https://bookworm-light-astro.vercel.app/?aff=ab",
+      "demoUrl": "https://bookworm-light-astro.vercel.app/",
       "type": "vitrine",
       "category": "blog-podcast",
       "tags": ["information", "actualités", "expertise", "conseils", "astuce"]
