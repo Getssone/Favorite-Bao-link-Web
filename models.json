@@ -34,6 +34,7 @@
       "id": "sante-et-bien-etre",
       "name": "Santé & Bien-être",
       "description": "Sites de santé et de bien-être"
+      "active": true
     }
   ],
   "futureCategories": [
