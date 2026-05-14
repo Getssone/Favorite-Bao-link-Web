@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "id": "tertiaire ",
+      "id": "tertiaire",
       "name": "Tertiaire",
       "description": "Sites de Conseil et technologiques",
       "active": true
@@ -159,7 +159,7 @@
       "image": "/images/models/purrfectly-zen.png",
       "demoUrl": "https://themes.zira.my.id/",
       "type": "vitrine",
-      "category": "santé et bien être",
+      "category": "sante-et-bien-etre",
       "tags": ["professionnel", "animalier", "soins", "équipe"]
     },
     {
@@ -169,7 +169,7 @@
       "image": "/images/models/fitzone-gym.png",
       "demoUrl": "https://gym-fitnesss.vercel.app/",
       "type": "vitrine",
-      "category": "santé et bien être",
+      "category": "sante-et-bien-etre",
       "tags": ["sport", "moderne", "rendez-vous", "coaching"]
     },
     {
