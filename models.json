@@ -99,7 +99,7 @@
       "demoUrl": "https://astro-theme.blackspike.com/",
       "figmaUrl": "https://www.figma.com/design/wZHty4Xu9dc8oaqmbDiTPL/blackspike-astro-landing-page?node-id=1029-1248",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["mode", "luxe", "responsive", "catalogue", "paiement"]
     },
     {
@@ -109,7 +109,7 @@
       "image": "/images/models/folex.png",
       "demoUrl": "https://folex-lite.netlify.app/fr/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["technologie", "comparateur", "fiches produits", "moderne"]
     },
     {
@@ -139,7 +139,7 @@
       "image": "/images/models/unit-name.png",
       "demoUrl": "https://tempalate-militarywebsite.vercel.app/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["professionnel", "militaire", "sécurité", "équipe", "tactique"]
     },
     {
@@ -189,7 +189,7 @@
       "image": "/images/models/accessibilite-astro.png",
       "demoUrl": "https://accessible-astro-starter.incluud.dev/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": [
         "accessible",
         "moderne",
@@ -255,7 +255,7 @@
       "image": "/images/models/astroplate.png",
       "demoUrl": "https://astroplate-multilang.netlify.app/fr/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["multilingue", "moderne", "conseil", "information", "expertise"]
     },
     {
@@ -265,7 +265,7 @@
       "image": "/images/models/litefolio.png",
       "demoUrl": "https://litefolio.gonzalochale.com/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["freelance", "minimaliste", "épuré", "information", "projets"]
     },
     {
@@ -285,7 +285,7 @@
       "image": "/images/models/global-financial.png",
       "demoUrl": "https://astro-storyblok-finance-starter.netlify.app/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["professionnel", "financier", "rendez-vous", "conseil", "équipe"]
     },
     {
@@ -315,7 +315,7 @@
       "image": "/images/models/logo-idol.png",
       "demoUrl": "https://idol.indiebold.com/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["services", "agence", "moderne", "design", "information"]
     },
     {
@@ -335,7 +335,7 @@
       "image": "/images/models/giallo.png",
       "demoUrl": "https://idol.indiebold.com/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["services", "information", "moderne", "design"]
     },
     {
@@ -345,7 +345,7 @@
       "image": "/images/models/kai.png",
       "demoUrl": "https://kai.bi/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["Appel d'offres", "information", "moderne", "design"]
     },
     {
@@ -365,7 +365,7 @@
       "image": "/images/models/svgl.png",
       "demoUrl": "https://svgl.app/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["outil", "bus-mailing", "design", "art", "musee"]
     },
     {
@@ -401,7 +401,7 @@
       "image": "/images/models/legal-staff.png",
       "demoUrl": "https://legal-staff.vercel.app/",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["avocat", "juridique", "rendez-vous", "équipe"]
     },
     {
@@ -421,7 +421,7 @@
       "image": "/images/projets/soair.png",
       "demoUrl": "https://soair.fr",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": [
         "audit",
         "gestion informatique",
@@ -437,7 +437,7 @@
       "image": "/images/projets/gaetan-solis.png",
       "demoUrl": "https://gaetan-solis.fr",
       "type": "vitrine",
-      "category": "tertiaire ",
+      "category": "tertiaire",
       "tags": ["portfolio", "projet", "moderne", "présentation", "services web"]
     }
   ]
