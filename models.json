@@ -62,6 +62,31 @@
       "id": "startup",
       "name": "Startup",
       "description": "Sites de startups tech"
+    },
+    {
+      "id": "e-commerce",
+      "name": "e-commerce",
+      "description": "Sites de vente en ligne (actuellement les modèles ecommerce sont dans "tertiaire")"
+    },
+    {
+      "id": "association",
+      "name": "Association",
+      "description": "Sites d'associations, ONG"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "description": "Sites éducatifs, formations"
+    },
+    {
+      "id": "immobilier",
+      "name": "Immobiliers",
+      "description": "Sites immobiliers"
+    },
+    {
+      "id": "evenementiel",
+      "name": "Evenementie",
+      "description": "Sites d'événements"
     }
   ],
   "models": [
